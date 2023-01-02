@@ -2,7 +2,7 @@
 
 ## 💡프로젝트 소개
 ```
-1️⃣ 주제 : NLP GoingDeeper
+1️⃣ 주제 : Exp
 2️⃣ 데이터셋 : AI Hub : 한국어 대화 데이터 (https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=117)
 3️⃣ 컬럼 : Id, Text(원문), Summary(대화 요약), Category(대화 유형)
 4️⃣ 모델 : KoBART, KoGPT-2  
