@@ -1,64 +1,31 @@
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"> <a href="https://bejewled-roll-712.notion.site/3-1d0df2d63705479dabd40a4214d82417"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
 
 ## 💡프로젝트 소개
 ```
-1️⃣ 주제 : Exp
-2️⃣ 데이터셋 : AI Hub : 한국어 대화 데이터 (https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=117)
-3️⃣ 컬럼 : Id, Text(원문), Summary(대화 요약), Category(대화 유형)
-4️⃣ 모델 : KoBART, KoGPT-2  
-5️⃣ 간단 설명 : 채팅 속 일상 대화 및 기록된 구어체 문장을 아이템에 입력하면 생성 요약한 간결한 문장을 제공
+1️⃣ 주제 : Exploration
+2️⃣ 내용 : AI 이론 및 기본 실습
+3️⃣ 설명 : 총 16개의 프로젝트를 통해서 AI에 대한 기본을 다진다.
 ```
 
 ---
-## 팀 소개
 
-### 세줄요약
-
-|손기락|고도환|최지원|
-|---|---|---|
-||||
-|- 팀장 </br>- Modeling(KoGPT-2) </br>- EDA 및 전처리|- PM </br>- Modeling(KoBART) </br>- 자료 조사|- 과업 정리 </br>- Modeling(KoGPT-2)|
-|||||
-
+## 🗓️ 프로젝트 진행
+|Number|Contents|Project|
+|:------:|:--------:|:-------:|
+|Ex_1|5가지의 머신러닝 모델을 활용하여 손글씨 분류, 와인 분류, 유방암 진단여부를 확인하는 분류모델|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_01%5DSklearn_Classifiers_with_toy_datasets(digits%2C_wine%2C_breast_cancer)_True.ipynb)|
+|Ex_2|당뇨병 수치 예측, 자전거 수요 예측하는 선형회귀모델|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_02%5DRegression_with_diabetes%2C_bike.ipynb)|
+|Ex_3|캐글 경진대회 무작정 따라해보기|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_3%5D2019_2nd_ML_month_with_KaKR.ipynb)|
+|Ex_4|주가 예측 모델|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_3%5D2019_2nd_ML_month_with_KaKR.ipynb)|
+|Ex_5|가위바위보 분류기 만들기|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_3%5D2019_2nd_ML_month_with_KaKR.ipynb)|
+|Ex_6|작사가 인공지능 모델 만들|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_6%5DWriting_lyrics(NLP).ipynb)|
+|Ex_7|고양이 수염 스티커 만들기|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_7%5D_Camera_stickers(CV).ipynb)|
+|Ex_8|네이버 영화리뷰 감성분석 도전하기|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_8%5DAnalyzing_the_Sensibility_of_Film_Review_Texts.ipynb)|
+|Ex_9|인물 모드 문제점 찾기|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_9%5DFind_Person_Mode_Problems.ipynb)|
+|Ex_10|단어 Level로 번역기 업그레이드하기|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_10%5DLet's_make_a_translator.ipynb)|
+|Ex_11|CIFAR-10 이미지 생성하기|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_11%5DCreating_a_CIFAR_10_Image.ipynb)|
+|Ex_12|뉴스 요약 봇 만들|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_12%5DSummarize_news_articles.ipynb)|
+|Ex_13|Movielens 영화 추천 실습|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_13%5DMovie_recommendations.ipynb)|
+|Ex_14|한국어 챗봇 만들|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_14%5DCreating_a_Chatbot_with_Korean_Data.ipynb)|
+|Ex_15|다양한 OCR모델 비교하|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BEXP_15%5DCompare_different_OCR_models.ipynb)|
+|Ex_16|Segmentation map으로 도로 이미지 만들기|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_16%5DCreate_a_road_image_with_Segmentation_map.ipynb)|
 ---
-## 🏅 프로젝트 목표
-#### 1. 추상적 요약 결과 ROUGE-Score 0.3 이상 달성하기 🟩    
 
----
-## 🗓️ 프로젝트 진행 일정
-
-|내용|M1|M2|H1|H2|H3|H4|H5|
-|---|---|---|---|---|---|---|---|
-|데이터 EDA 및 전처리 방향 결정|🟡|🟡||||||
-|Model 탐색|🟡|🟡|🟡|||||
-|Basic 분석 시행|🟡|🟡||||||
-|모델 선정|🟡|🟡||||||
-|모델 구축 및 성능 개선|🟡|🟡|🟡|🟡|🟡|||
-|결과 분석||||||🟡|🟡|
-
----
-## 🦄 프로젝트를 위한 자료
-#### [1. 데이터셋(AI Hub)](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=117)
-#### [2. 논문 자료 바로가기](https://bejewled-roll-712.notion.site/5325673955d84493b83ccd31e044d6b3)
-#### [3. 노션 페이지 바로가기](https://bejewled-roll-712.notion.site/3-1d0df2d63705479dabd40a4214d82417) 
-#### [4. 학습 보충 자료](https://bejewled-roll-712.notion.site/StudyWithUs-97d1570c7863469eb37a9c405798376b)
-
----
-## 📑 프로젝트 진행 과정
-|No|내용|깃허브|관리대표|
-|---|---|---|---|
-|01|EDA 및 전처리|[📂](https://github.com/AIFFEL-NLP-PROJECT/Aiffelthon/tree/main/Data_EDA)|손기락|
-|02|Modeling(1) - KoBART|[📂](https://github.com/AIFFEL-NLP-PROJECT/Aiffelthon/tree/main/Model/KoBART)|고도환|
-|03|Modeling(2) - KoGPT-2|[📂](https://github.com/AIFFEL-NLP-PROJECT/Aiffelthon/tree/main/Model/KoGPT-2)|최지원, 손기락|
-|04|논문 내용 정리|[📂](https://bejewled-roll-712.notion.site/5325673955d84493b83ccd31e044d6b3)|최지원|
-
----
-## 🏆 프로젝트 결과(Rouge-Score)
-|Model|KoGPT-2|KoBART|
-|---|---|---|
-|Recall|0.1873|0.2636|
-|Precision|0.2543|0.2602|
-|F1-Score|0.2078|0.2536|
-
----
-## 🏆 프로젝트 결과(영상)    
