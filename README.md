@@ -16,7 +16,7 @@
 |Exp_3|캐글 경진대회 무작정 따라해보기|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_3%5D2019_2nd_ML_month_with_KaKR.ipynb)|
 |Exp_4|주가 예측 모델|[link](https://github.com/jx-dohwan/Aiffel_Exp_Project/blob/main/%5BExp_4%5D_Time_Series(apple%2C_BRK%2C_BABA).ipynb)|
 |Exp_5|가위바위보 분류기 만들기|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_3%5D2019_2nd_ML_month_with_KaKR.ipynb)|
-|Exp_6|작사가 인공지능 모델 만들|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_6%5DWriting_lyrics(NLP).ipynb)|
+|Exp_6|작사가 인공지능 모델 만들기|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_6%5DWriting_lyrics(NLP).ipynb)|
 |Exp_7|고양이 수염 스티커 만들기|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_7%5D_Camera_stickers(CV).ipynb)|
 |Exp_8|네이버 영화리뷰 감성분석 도전하기|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_8%5DAnalyzing_the_Sensibility_of_Film_Review_Texts.ipynb)|
 |Exp_9|인물 모드 문제점 찾기|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_9%5DFind_Person_Mode_Problems.ipynb)|
