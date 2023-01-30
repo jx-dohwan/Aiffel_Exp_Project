@@ -25,7 +25,7 @@
 |Exp_12|뉴스 요약 봇 만들기|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_12%5DSummarize_news_articles.ipynb)|
 |Exp_13|Movielens 영화 추천 실습|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_13%5DMovie_recommendations.ipynb)|
 |Exp_14|한국어 챗봇 만들기|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_14%5DCreating_a_Chatbot_with_Korean_Data.ipynb)|
-|Exp_15|다양한 OCR모델 비교하|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BEXP_15%5DCompare_different_OCR_models.ipynb)|
+|Exp_15|다양한 OCR모델 비교하기|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BEXP_15%5DCompare_different_OCR_models.ipynb)|
 |Exp_16|Segmentation map으로 도로 이미지 만들기|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_16%5DCreate_a_road_image_with_Segmentation_map.ipynb)|
 ---
 
