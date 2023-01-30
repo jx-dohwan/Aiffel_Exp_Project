@@ -14,7 +14,7 @@
 |Exp_1|5가지의 머신러닝 모델을 활용하여 손글씨 분류, 와인 분류, 유방암 진단여부를 확인하는 분류모델|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_01%5DSklearn_Classifiers_with_toy_datasets(digits%2C_wine%2C_breast_cancer)_True.ipynb)|
 |Exp_2|당뇨병 수치 예측, 자전거 수요 예측하는 선형회귀모델|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_02%5DRegression_with_diabetes%2C_bike.ipynb)|
 |Exp_3|캐글 경진대회 무작정 따라해보기|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_3%5D2019_2nd_ML_month_with_KaKR.ipynb)|
-|Exp_4|주가 예측 모델|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_3%5D2019_2nd_ML_month_with_KaKR.ipynb)|
+|Exp_4|주가 예측 모델|[link](https://github.com/jx-dohwan/Aiffel_Exp_Project/blob/main/%5BExp_4%5D_Time_Series(apple%2C_BRK%2C_BABA).ipynb)|
 |Exp_5|가위바위보 분류기 만들기|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_3%5D2019_2nd_ML_month_with_KaKR.ipynb)|
 |Exp_6|작사가 인공지능 모델 만들|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_6%5DWriting_lyrics(NLP).ipynb)|
 |Exp_7|고양이 수염 스티커 만들기|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_7%5D_Camera_stickers(CV).ipynb)|
@@ -22,9 +22,9 @@
 |Exp_9|인물 모드 문제점 찾기|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_9%5DFind_Person_Mode_Problems.ipynb)|
 |Exp_10|단어 Level로 번역기 업그레이드하기|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_10%5DLet's_make_a_translator.ipynb)|
 |Exp_11|CIFAR-10 이미지 생성하기|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_11%5DCreating_a_CIFAR_10_Image.ipynb)|
-|Exp_12|뉴스 요약 봇 만들|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_12%5DSummarize_news_articles.ipynb)|
+|Exp_12|뉴스 요약 봇 만들기|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_12%5DSummarize_news_articles.ipynb)|
 |Exp_13|Movielens 영화 추천 실습|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_13%5DMovie_recommendations.ipynb)|
-|Exp_14|한국어 챗봇 만들|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_14%5DCreating_a_Chatbot_with_Korean_Data.ipynb)|
+|Exp_14|한국어 챗봇 만들기|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_14%5DCreating_a_Chatbot_with_Korean_Data.ipynb)|
 |Exp_15|다양한 OCR모델 비교하|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BEXP_15%5DCompare_different_OCR_models.ipynb)|
 |Exp_16|Segmentation map으로 도로 이미지 만들기|[link](https://github.com/jx-dohwan/Aiffel_EGLMS_Project/blob/main/%5BExp_16%5DCreate_a_road_image_with_Segmentation_map.ipynb)|
 ---
